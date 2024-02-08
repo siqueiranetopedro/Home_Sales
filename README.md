@@ -1,5 +1,6 @@
 
-![istockphoto-1366935131-1024x1024](https://github.com/siqueiranetopedro/Home_Sales/assets/141440536/e8654c25-bf14-49aa-98ca-bbe3b0a3b7ee)
+<img width="1006" alt="Screenshot 2024-02-08 at 5 39 47 PM" src="https://github.com/siqueiranetopedro/Home_Sales/assets/141440536/bb51ed35-a42d-4152-a4e2-56d8b752b8c0">
+
 
 
 Home Sales Analysis with PySpark
